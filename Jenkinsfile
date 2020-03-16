@@ -1,4 +1,4 @@
-env.DOCKER_REGISTRY = 'adisaputra10'
+env.DOCKER_REGISTRY = 'cordiaz'
 env.DOCKER_IMAGE_NAME = 'test'
 node('master') {
     stage('Git Pull') {
